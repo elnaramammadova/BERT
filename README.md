@@ -1,7 +1,3 @@
-Certainly! Here's a suggested introduction for your README.md file:
-
----
-
 # Understanding BERT: A Comprehensive Guide 📖
 
 Welcome to the repository for exploring and understanding the BERT (Bidirectional Encoder Representations from Transformers) model! BERT has revolutionized the field of Natural Language Processing (NLP) with its groundbreaking approach to understanding the nuances of human language.
